@@ -1,0 +1,45 @@
+### model
+model_name_or_path: OpenGVLab/InternVL3-8B
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+freeze_vision_tower: false
+freeze_language_model: false
+# deepspeed: examples/deepspeed/ds_z3_config.json  # Uncomment for multi-GPU training
+
+### dataset
+dataset: pointing_combined_train
+template: intern_vl
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 16
+dataloader_num_workers: 4
+
+### output
+output_dir: saves/internvl3-8b/full/pointing
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: true
+report_to: tensorboard  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 4
+learning_rate: 1.0e-5
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_steps: 100
+weight_decay: 0.01
+bf16: true
+ddp_timeout: 9000
+
+### eval
+val_size: 0.0  # We have a separate test set
+# per_device_eval_batch_size: 4
+# eval_strategy: steps
+# eval_steps: 500

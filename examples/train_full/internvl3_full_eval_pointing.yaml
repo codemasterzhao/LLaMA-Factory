@@ -1,0 +1,23 @@
+### model
+model_name_or_path: saves/internvl3-8b/full/pointing  # Path to your trained model
+trust_remote_code: true
+
+### method
+stage: sft
+do_predict: true
+finetuning_type: full
+
+### dataset
+dataset: pointing_combined_test
+template: intern_vl
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 4
+
+### output
+output_dir: saves/internvl3-8b/full/pointing_eval
+overwrite_output_dir: true
+
+### eval
+per_device_eval_batch_size: 4
+predict_with_generate: true
