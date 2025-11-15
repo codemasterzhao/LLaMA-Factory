@@ -1,0 +1,4082 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the blanket in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.598, 0.493)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/231_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the blue cloth beneath the plate.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.669, 0.779)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/118_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the pavement in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.320, 0.931)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/220_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the red cans in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.605, 0.045)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/326_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mouse in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.604, 0.599)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/204_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the glass cup behind the Coca-Cola bottle.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.574, 0.520)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/74_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the right metal shelving in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.641, 0.643)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/239_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the yellow shelf in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.420, 0.497)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/296_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the table with a faucet.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.680, 0.655)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/120_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white sign on the pillar in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.538, 0.095)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/66_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the book beneath the blue bag on the bed.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.727, 0.314)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/77_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the jar of honey in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.128, 0.680)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/173_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the blue polka dot mug in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.563, 0.743)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/91_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the cabinet to the right of the microwave in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.488, 0.234)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/159_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white box on the left side of the refrigerator.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.151, 0.467)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/46_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the nearest tire in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.538, 0.686)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/294_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the fork in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.603, 0.701)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/289_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the cup in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.339, 0.770)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/171_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the red fabric in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.627, 0.054)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/278_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the square stand in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.496, 0.832)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/175_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the green light on the left.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.285, 0.812)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/19_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Which object is the scarf on the right side of the sofa?\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.621, 0.292)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/104_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the white buckets in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.117, 0.148)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/158_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the bigger pot with liquid in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.478, 0.818)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/316_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the skewers in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.410, 0.677)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/177_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the oblong tomatoes in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.332, 0.654)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/334_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the coffee pot with red handle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.306, 0.588)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/298_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify figurine.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.942, 0.327)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/88_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the keychain in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.522, 0.559)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/329_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the knife in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.471, 0.519)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/300_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the glove in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.240, 0.701)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/198_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the fabric in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.276, 0.136)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/333_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the spoon on the right in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.816, 0.281)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/255_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the lock on the wall.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.449, 0.498)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/93_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the glass in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.305, 0.495)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/156_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Idenfity the knife.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.456, 0.531)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/38_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the left pillow on the bed\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.518, 0.206)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/34_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the pink bowl on the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.350, 0.602)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/37_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the white top in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.553, 0.383)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/178_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the blue pillow in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.350, 0.361)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/249_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the car driving on the right road in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.591, 0.774)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/48_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the photograph near the wall.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.350, 0.251)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/146_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the cylindrical container with red and white colors on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.727, 0.654)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/144_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the black patterned mat in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.668, 0.920)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/244_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the door knocker in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.539, 0.475)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/188_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the tomato sauce bottle.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.661, 0.476)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/72_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the paper bag in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.464, 0.302)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/330_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the meat nearest to the tomato in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.346, 0.677)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/314_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the lamp.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.202, 0.147)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/18_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the keyboard in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.510, 0.866)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/228_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the bedframe in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.270, 0.583)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/272_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the small black box on the table near pens.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.652, 0.446)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/53_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the pancakes in the bottom in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.450, 0.365)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/222_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the smartphone in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.305, 0.757)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/322_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the red bird silhouette in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.626, 0.421)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/240_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the pillow in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.577, 0.391)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/311_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the vase on the left table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.221, 0.736)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/25_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the refridgerator.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.303, 0.660)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/94_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the toast in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.519, 0.833)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/310_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the right telephone.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.709, 0.574)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/133_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the cream on the top of the blue mug.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.639, 0.311)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/70_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the green plant on the left table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.215, 0.734)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/26_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the open silver laptop on the couch in this image?\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.169, 0.353)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/10_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the flower.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.357, 0.750)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/113_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Can you point out the bottle of yellow mustard on the table in this image?\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.791, 0.804)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/11_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the window curtain.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.806, 0.076)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/1_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the floor.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.635, 0.935)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/89_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the tomato slice in the top left of the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.498, 0.200)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/295_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mixer in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.495, 0.619)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/245_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the farther grilled cheese sandwich in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.516, 0.213)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/206_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the mouse on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.334, 0.588)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/123_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the empty glass bottle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.578, 0.470)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/154_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the orange pillow in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.319, 0.581)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/197_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mouse in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.730, 0.546)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/221_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the nearest monitor.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.853, 0.217)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/106_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the brown shelf in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.909, 0.495)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/246_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the stuffed animal in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.637, 0.539)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/207_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the building in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.509, 0.044)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/195_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the brick wall on the left in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.204, 0.113)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/283_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the tissue box in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.911, 0.271)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/209_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the beige plastic spoon on the dark floor in the image. \nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.505, 0.669)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/139_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mushrooms in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.254, 0.255)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/320_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the left dumbbell.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.722, 0.675)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/43_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the brown decorative pillow in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.608, 0.188)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/203_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: \"What is the object shown in the highlighted area of the image?\"\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.823, 0.743)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/122_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the table beneath the lamp.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.284, 0.612)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/96_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the wheel in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.637, 0.561)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/262_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the green bed skirt in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.679, 0.628)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/267_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the tail light in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.437, 0.526)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/223_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Which item in the image is the orange cushion featuring a leaf pattern on the patio chair?\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.496, 0.440)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/6_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the colored house.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.464, 0.466)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/59_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the green pillow on the left side of the sofa.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.340, 0.253)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/99_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the blue bicycle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.364, 0.802)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/242_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the upmost cheese slice in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.436, 0.439)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/182_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the cooling rack.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.374, 0.762)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/55_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the mug.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.425, 0.695)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/84_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the wardrobe in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.491, 0.455)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/208_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the foam in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.561, 0.447)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/219_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the computer keyboard.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.430, 0.539)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/24_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the spoon in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.397, 0.699)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/303_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the refridgerator.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.826, 0.571)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/103_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the table on the right side of the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.885, 0.712)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/100_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the stove.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.551, 0.560)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/31_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the cat.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.202, 0.170)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/60_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the peach.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.486, 0.502)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/105_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the flower vase\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.688, 0.509)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/73_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the knife in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.571, 0.514)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/162_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the wire on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.197, 0.423)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/131_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the straw in the cup.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.131, 0.653)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/69_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the teapot in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.765, 0.536)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/180_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the wooden tray on the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.915, 0.426)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/62_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the plate beneath the mug.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.561, 0.833)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/85_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the kettle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.402, 0.279)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/250_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the cap of the bottle.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.595, 0.126)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/134_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the red brick-like wall.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.419, 0.314)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/65_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the book in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.979, 0.786)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/165_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the Jack Deniel's bottle of whiskey in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.780, 0.497)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/147_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the white laptop in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.697, 0.285)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/305_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the window frame in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.675, 0.189)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/265_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate donuts in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.525, 0.557)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/157_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the mug.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.216, 0.585)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/8_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the frontest pillow in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.688, 0.739)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/199_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the red brick path in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.488, 0.839)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/7_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the nightstand in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.737, 0.766)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/248_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the milk bottle.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.824, 0.439)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/90_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the mug on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.805, 0.290)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/9_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mug on the left in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.356, 0.135)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/168_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the closer pomegranate in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.708, 0.468)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/225_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the blue bottle with a blue cap in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.549, 0.671)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/58_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the picture frame on the wall.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.936, 0.235)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/5_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the cup with ice on the left side of the image\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.290, 0.842)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/86_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the rightmost sushi in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.789, 0.790)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/210_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the blue suitcase in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.330, 0.358)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/338_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the license plate in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.558, 0.726)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/266_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the lamp.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.312, 0.190)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/30_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the trash.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.868, 0.799)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/115_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the red and white cheese box on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.308, 0.644)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/132_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the left blue bottle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.321, 0.379)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/263_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the jean skirt in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.444, 0.348)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/304_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the rice in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.438, 0.356)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/227_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the island countertop in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.609, 0.530)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/306_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the keyboard in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.254, 0.678)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/280_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the menu in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.560, 0.627)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/170_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the knife in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.610, 0.561)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/247_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the brown plate in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.253, 0.673)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/212_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the ceramic pitcher in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.366, 0.239)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/169_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the marmalade jar in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.506, 0.107)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/288_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white ball.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.515, 0.743)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/42_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the closer plate in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.419, 0.887)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/336_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the plate on the left table in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.220, 0.903)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/121_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the grapes in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.173, 0.727)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/151_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the blue bag in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.647, 0.255)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/32_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the spoon in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.849, 0.653)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/271_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the sink.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.118, 0.620)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/17_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white keyboard.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.936, 0.861)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/124_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the black tape measure near the blue ball on the desk.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.480, 0.710)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/21_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Which object in the image is the white plastic spoon?\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.451, 0.287)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/20_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the vertical blinds in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.889, 0.248)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/251_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the screen of laptop in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.524, 0.344)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/179_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the yellow cloth on the table in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.611, 0.581)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/14_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white table inside the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.435, 0.603)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/61_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the red cup.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.745, 0.542)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/78_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the plate in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.589, 0.872)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/243_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the coffee machine in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.372, 0.255)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/196_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the menu.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.682, 0.201)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/4_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the curtains on the right in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.690, 0.244)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/268_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the piece of butter on the plate\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.708, 0.727)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/82_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mouse pad in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.656, 0.672)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/153_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the product tag in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.728, 0.737)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/187_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mouse in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.505, 0.392)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/257_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the green mug in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.352, 0.252)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/264_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: What object in the image is a spoon?\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.465, 0.316)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/41_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the bush on the left side of the car.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.035, 0.211)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/95_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the window in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.845, 0.140)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/217_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the knife on the left side of the bread.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.294, 0.842)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/50_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the green poker table in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.383, 0.660)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/155_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the soccer goal in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.477, 0.204)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/273_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the red brick building in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.114, 0.095)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/163_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white plate beneath the mug.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.466, 0.854)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/76_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the tree in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.809, 0.042)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/309_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the right transparent box.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.600, 0.820)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/27_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the Intel logo on the laptop.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.851, 0.874)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/129_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the small cup filled with liquid on the right side of the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.826, 0.576)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/45_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the wooden basket.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.388, 0.932)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/128_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the road in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.169, 0.808)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/277_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the closest wine glass in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.207, 0.189)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/276_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the screen in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.533, 0.301)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/200_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the person in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.621, 0.161)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/0_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the biggest glass coffee table in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.475, 0.436)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/284_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the leftmost chefs knife in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.310, 0.568)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/215_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the lane divider in the middle of the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.576, 0.286)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/324_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the plastic box beneath the straw.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.520, 0.329)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/75_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the toilet paper holder and the paper roll in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.445, 0.485)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/218_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the spoon in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.530, 0.332)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/269_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the blue toy egg in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.551, 0.738)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/252_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the remote control on the bed.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.512, 0.208)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/68_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the green bag in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.451, 0.193)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/192_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the shortest bottle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.303, 0.705)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/253_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the microwave in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.656, 0.249)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/201_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white cup.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.492, 0.644)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/29_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the black ground in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.106, 0.859)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/184_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the radiator on the left in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.046, 0.290)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/213_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the red dot in the keyboard.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.592, 0.377)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/2_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white hand dispenser. \nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.347, 0.444)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/141_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the grey towel on the wall.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.567, 0.077)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/64_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the oven in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.756, 0.820)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/297_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the checkered skirt in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.522, 0.548)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/281_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the bicycle frame and the metal rack in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.491, 0.634)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/211_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the yellow mustard bottle lying on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.783, 0.783)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/97_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the pancakes in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.347, 0.581)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/319_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the wooden wall in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.431, 0.186)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/259_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the crib in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.537, 0.637)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/152_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the picture on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.669, 0.380)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/108_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the sliced tomato in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.929, 0.570)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/321_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the saucer in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.398, 0.763)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/202_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the trash can in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.887, 0.736)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/290_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the white sofa in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.955, 0.577)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/160_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the flower on the most left side of the garden.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.020, 0.306)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/39_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the sofa in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.910, 0.720)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/261_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the wine bottle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.572, 0.521)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/337_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the tea pot in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.593, 0.612)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/292_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the closer martini glass in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.597, 0.440)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/285_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the socket on the wall.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.419, 0.124)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/126_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the red item on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.815, 0.704)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/130_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the street sign in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.484, 0.518)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/237_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the left sink.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.534, 0.470)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/56_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the green plate on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.206, 0.906)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/92_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the bicycle on the right of the car.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.924, 0.705)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/102_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the cheese in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.046, 0.656)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/230_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the blue jeans on the bed.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.132, 0.604)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/109_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the nearest table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.537, 0.577)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/149_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the green bottle in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.818, 0.586)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/191_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the window in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.766, 0.019)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/238_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the black backpack in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.505, 0.733)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/256_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the bottle on the right.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.669, 0.404)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/143_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the golf ball with text on the left in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.285, 0.524)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/190_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the street in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.282, 0.044)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/293_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the doughnut with almonds in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.299, 0.461)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/286_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the orange ball in the back.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.333, 0.347)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/67_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the brown small pot in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.293, 0.376)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/270_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the remote control in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.082, 0.224)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/260_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the window in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.842, 0.248)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/164_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the bed in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.672, 0.741)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/234_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the plastic bag in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.081, 0.181)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/226_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the basketball in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.292, 0.671)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/318_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the silver spoon on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.818, 0.770)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/127_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the wooden table in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.055, 0.200)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/167_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the plate in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.359, 0.920)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/254_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the opened box with white and red color near the wall\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.102, 0.359)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/80_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the liquid in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.603, 0.194)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/299_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mouse in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.584, 0.452)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/224_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the yellow plastic bottle in the drawer.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.772, 0.731)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/145_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the green lettuce in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.501, 0.281)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/241_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the yellow knife in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.500, 0.604)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/233_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the green cylindrical object on the table near the airplane.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.634, 0.340)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/54_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify toothpaste\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.569, 0.375)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/33_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the pear in the second highest row of fruits in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.339, 0.446)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/137_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the white computer mouse in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.679, 0.285)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/205_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the knife in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.779, 0.556)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/161_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the closest pancake in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.573, 0.702)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/339_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the license of the car.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.751, 0.677)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/117_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the wall-mounted shelves.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.575, 0.299)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/28_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the mug in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.296, 0.432)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/166_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the tile floor in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.645, 0.954)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/315_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the blue ball on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.548, 0.592)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/138_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the colored sequins on the top in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.293, 0.266)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/317_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the teapot in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.517, 0.277)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/236_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the cake in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.342, 0.680)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/275_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Locate the brown and red building in the image.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.142, 0.300)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/335_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the black mouse on the table near the keyboard.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.609, 0.373)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/87_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the picture on the wall near the coffee machine.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.512, 0.288)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/36_original.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The question is: Identify the white bottle with a blue cap on the table.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+      },
+      {
+        "from": "gpt",
+        "value": "(0.627, 0.754)"
+      }
+    ],
+    "images": [
+      "../final_pointing/general_object_pointing_image/136_original.jpg"
+    ]
+  }
+]

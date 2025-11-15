@@ -1,0 +1,50 @@
+{
+  "general_pointing_train": {
+    "file_name": "general_pointing_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "general_pointing_test": {
+    "file_name": "general_pointing_test.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "spatial_relationship_train": {
+    "file_name": "spatial_relationship_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "spatial_relationship_test": {
+    "file_name": "spatial_relationship_test.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "pointing_combined_train": {
+    "file_name": "pointing_combined_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "pointing_combined_test": {
+    "file_name": "pointing_combined_test.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  }
+}
