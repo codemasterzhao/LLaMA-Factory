@@ -1,0 +1,3743 @@
+[
+    {
+        "idx": 0,
+        "image": "spatial_relationship_pointing_image/0_original.jpg",
+        "video": "",
+        "question": "Identify the nearest mug",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/0_mask.jpg",
+        "bbox": [
+            276,
+            51,
+            854,
+            533
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 1,
+        "image": "spatial_relationship_pointing_image/1_original.jpg",
+        "video": "",
+        "question": "Identify the nearest spoon.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/1_mask.jpg",
+        "bbox": [
+            78,
+            193,
+            323,
+            572
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 2,
+        "image": "spatial_relationship_pointing_image/2_original.jpg",
+        "video": "",
+        "question": "Identify the nearest car.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/2_mask.jpg",
+        "bbox": [
+            132,
+            262,
+            871,
+            587
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 3,
+        "image": "spatial_relationship_pointing_image/3_original.jpg",
+        "video": "",
+        "question": "Identify the nearest plate.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/3_mask.jpg",
+        "bbox": [
+            88,
+            482,
+            251,
+            575
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 4,
+        "image": "spatial_relationship_pointing_image/4_original.jpg",
+        "video": "",
+        "question": "Identify the object beneath the nearest bottle.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/4_mask.jpg",
+        "bbox": [
+            339,
+            250,
+            424,
+            283
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 5,
+        "image": "spatial_relationship_pointing_image/5_original.jpg",
+        "video": "",
+        "question": "Identify the plate beneath the decorative spheres",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/5_mask.jpg",
+        "bbox": [
+            88,
+            482,
+            251,
+            575
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 6,
+        "image": "spatial_relationship_pointing_image/6_original.jpg",
+        "video": "",
+        "question": "Identify the object on the right inside the drawer",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/6_mask.jpg",
+        "bbox": [
+            482,
+            326,
+            516,
+            369
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 7,
+        "image": "spatial_relationship_pointing_image/7_original.jpg",
+        "video": "",
+        "question": "Identify the plant closer to the decorative spheres",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/7_mask.jpg",
+        "bbox": [
+            160,
+            375,
+            261,
+            470
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 8,
+        "image": "spatial_relationship_pointing_image/8_original.jpg",
+        "video": "",
+        "question": "Identify the black object closer to the pensil box",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/8_mask.jpg",
+        "bbox": [
+            393,
+            191,
+            445,
+            227
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 9,
+        "image": "spatial_relationship_pointing_image/9_original.jpg",
+        "video": "",
+        "question": "Identify the green pillow on the most left side of the sofa.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/9_mask.jpg",
+        "bbox": [
+            311,
+            91,
+            406,
+            207
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 10,
+        "image": "spatial_relationship_pointing_image/10_original.jpg",
+        "video": "",
+        "question": "Identify the cylindrical object closer to the toy airplane.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/10_mask.jpg",
+        "bbox": [
+            391,
+            126,
+            427,
+            194
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 11,
+        "image": "spatial_relationship_pointing_image/11_original.jpg",
+        "video": "",
+        "question": "Identify the knife on the left side of the bread.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/11_mask.jpg",
+        "bbox": [
+            12,
+            426,
+            559,
+            682
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 12,
+        "image": "spatial_relationship_pointing_image/12_original.jpg",
+        "video": "",
+        "question": "Identify the knife which is closer to the bread.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/12_mask.jpg",
+        "bbox": [
+            12,
+            426,
+            559,
+            682
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 13,
+        "image": "spatial_relationship_pointing_image/13_original.jpg",
+        "video": "",
+        "question": "Identify the knife that is closer.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/13_mask.jpg",
+        "bbox": [
+            12,
+            426,
+            559,
+            682
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 14,
+        "image": "spatial_relationship_pointing_image/14_original.jpg",
+        "video": "",
+        "question": "Identify the white box on the left side of the refrigerator.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/14_mask.jpg",
+        "bbox": [
+            55,
+            406,
+            130,
+            560
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 15,
+        "image": "spatial_relationship_pointing_image/15_original.jpg",
+        "video": "",
+        "question": "Identify the white bowl on the most right side of the kitchen.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/15_mask.jpg",
+        "bbox": [
+            665,
+            304,
+            714,
+            326
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 16,
+        "image": "spatial_relationship_pointing_image/16_original.jpg",
+        "video": "",
+        "question": "Identify the closest black object",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/16_mask.jpg",
+        "bbox": [
+            276,
+            310,
+            322,
+            364
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 17,
+        "image": "spatial_relationship_pointing_image/17_original.jpg",
+        "video": "",
+        "question": "Identify the object on the table beneath the silver utensils.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/17_mask.jpg",
+        "bbox": [
+            775,
+            128,
+            1023,
+            270
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 18,
+        "image": "spatial_relationship_pointing_image/18_original.jpg",
+        "video": "",
+        "question": "Identify the pear in the second highest row of fruits in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/18_mask.jpg",
+        "bbox": [
+            283,
+            269,
+            399,
+            359
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 19,
+        "image": "spatial_relationship_pointing_image/19_original.jpg",
+        "video": "",
+        "question": "Identify the vase on the left table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/19_mask.jpg",
+        "bbox": [
+            160,
+            375,
+            261,
+            470
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 20,
+        "image": "spatial_relationship_pointing_image/20_original.jpg",
+        "video": "",
+        "question": "Identify the plate on the left table in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/20_mask.jpg",
+        "bbox": [
+            88,
+            482,
+            251,
+            575
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 21,
+        "image": "spatial_relationship_pointing_image/21_original.jpg",
+        "video": "",
+        "question": "Identify the further white napkin",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/21_mask.jpg",
+        "bbox": [
+            775,
+            128,
+            1023,
+            270
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 22,
+        "image": "spatial_relationship_pointing_image/22_original.jpg",
+        "video": "",
+        "question": "Identify the golf ball closet to the golf hole",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/22_mask.jpg",
+        "bbox": [
+            334,
+            419,
+            367,
+            451
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 23,
+        "image": "spatial_relationship_pointing_image/23_original.jpg",
+        "video": "",
+        "question": "Identify the closest black item",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/23_mask.jpg",
+        "bbox": [
+            276,
+            310,
+            322,
+            364
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 24,
+        "image": "spatial_relationship_pointing_image/24_original.jpg",
+        "video": "",
+        "question": "Identify the object closet to the keyboard",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/24_mask.jpg",
+        "bbox": [
+            361,
+            160,
+            422,
+            205
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 25,
+        "image": "spatial_relationship_pointing_image/25_original.jpg",
+        "video": "",
+        "question": "Identify the bottle behind the cup of coffee",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/25_mask.jpg",
+        "bbox": [
+            667,
+            0,
+            1023,
+            393
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 26,
+        "image": "spatial_relationship_pointing_image/26_original.jpg",
+        "video": "",
+        "question": "Identify the object ahead of the white cup",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/26_mask.jpg",
+        "bbox": [
+            29,
+            824,
+            1023,
+            1023
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 27,
+        "image": "spatial_relationship_pointing_image/27_original.jpg",
+        "video": "",
+        "question": "Identify the object on top of the chair",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/27_mask.jpg",
+        "bbox": [
+            369,
+            260,
+            590,
+            466
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 28,
+        "image": "spatial_relationship_pointing_image/28_original.jpg",
+        "video": "",
+        "question": "Identify the building behind the closest car",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/28_mask.jpg",
+        "bbox": [
+            0,
+            0,
+            759,
+            497
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 29,
+        "image": "spatial_relationship_pointing_image/29_original.jpg",
+        "video": "",
+        "question": "Identify the object on the top of the book",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/29_mask.jpg",
+        "bbox": [
+            604,
+            177,
+            744,
+            246
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 30,
+        "image": "spatial_relationship_pointing_image/30_original.jpg",
+        "video": "",
+        "question": "Identify the object between the bowl and the cup on the table",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/30_mask.jpg",
+        "bbox": [
+            443,
+            271,
+            479,
+            339
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 31,
+        "image": "spatial_relationship_pointing_image/31_original.jpg",
+        "video": "",
+        "question": "Identify the blue jeans closet to the wall",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/31_mask.jpg",
+        "bbox": [
+            4,
+            307,
+            304,
+            707
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 32,
+        "image": "spatial_relationship_pointing_image/32_original.jpg",
+        "video": "",
+        "question": "Identify the nearest ball.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/32_mask.jpg",
+        "bbox": [
+            321,
+            250,
+            371,
+            303
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 33,
+        "image": "spatial_relationship_pointing_image/33_original.jpg",
+        "video": "",
+        "question": "Identify the item closest to the red and white cylindrical bottle",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/33_mask.jpg",
+        "bbox": [
+            479,
+            282,
+            521,
+            342
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 34,
+        "image": "spatial_relationship_pointing_image/34_original.jpg",
+        "video": "",
+        "question": "Identify the table where the nearest chair belongs to",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/34_mask.jpg",
+        "bbox": [
+            806,
+            403,
+            1023,
+            534
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 35,
+        "image": "spatial_relationship_pointing_image/35_original.jpg",
+        "video": "",
+        "question": "Identify the nearest bottle",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/35_mask.jpg",
+        "bbox": [
+            379,
+            319,
+            413,
+            398
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 36,
+        "image": "spatial_relationship_pointing_image/36_original.jpg",
+        "video": "",
+        "question": "Identify the nearest keyboard.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/36_mask.jpg",
+        "bbox": [
+            626,
+            565,
+            993,
+            657
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 37,
+        "image": "spatial_relationship_pointing_image/37_original.jpg",
+        "video": "",
+        "question": "Identify closer cup of tea",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/37_mask.jpg",
+        "bbox": [
+            755,
+            393,
+            908,
+            542
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 38,
+        "image": "spatial_relationship_pointing_image/38_original.jpg",
+        "video": "",
+        "question": "Identify the bush on the left side of the car.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/38_mask.jpg",
+        "bbox": [
+            0,
+            17,
+            76,
+            332
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 39,
+        "image": "spatial_relationship_pointing_image/39_original.jpg",
+        "video": "",
+        "question": "Identify the tree nearest the bus stop sign.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/39_mask.jpg",
+        "bbox": [
+            354,
+            0,
+            502,
+            274
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 40,
+        "image": "spatial_relationship_pointing_image/40_original.jpg",
+        "video": "",
+        "question": "Identify the candel nearest to the reed diffuser.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/40_mask.jpg",
+        "bbox": [
+            768,
+            455,
+            887,
+            606
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 41,
+        "image": "spatial_relationship_pointing_image/41_original.jpg",
+        "video": "",
+        "question": "Identify the electronic device beneath the towel roll.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/41_mask.jpg",
+        "bbox": [
+            616,
+            361,
+            795,
+            490
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 42,
+        "image": "spatial_relationship_pointing_image/42_original.jpg",
+        "video": "",
+        "question": "Identify the silver utensil beneath the silver chopstick",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/42_mask.jpg",
+        "bbox": [
+            618,
+            429,
+            955,
+            686
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 43,
+        "image": "spatial_relationship_pointing_image/43_original.jpg",
+        "video": "",
+        "question": "Identify ball that is farthest away",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/43_mask.jpg",
+        "bbox": [
+            649,
+            114,
+            745,
+            203
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 44,
+        "image": "spatial_relationship_pointing_image/44_original.jpg",
+        "video": "",
+        "question": "Identify the ball behind the closest green ball.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/44_mask.jpg",
+        "bbox": [
+            345,
+            369,
+            556,
+            539
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 45,
+        "image": "spatial_relationship_pointing_image/45_original.jpg",
+        "video": "",
+        "question": "Identify the object beneath the pink plate",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/45_mask.jpg",
+        "bbox": [
+            0,
+            592,
+            682,
+            924
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 46,
+        "image": "spatial_relationship_pointing_image/46_original.jpg",
+        "video": "",
+        "question": "Identify the plate with a stack of pancakes on it.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/46_mask.jpg",
+        "bbox": [
+            0,
+            424,
+            596,
+            792
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 47,
+        "image": "spatial_relationship_pointing_image/47_original.jpg",
+        "video": "",
+        "question": "Identify the notebook closest to the silver laptop",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/47_mask.jpg",
+        "bbox": [
+            170,
+            212,
+            278,
+            270
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 48,
+        "image": "spatial_relationship_pointing_image/48_original.jpg",
+        "video": "",
+        "question": "Identify the middle chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/48_mask.jpg",
+        "bbox": [
+            203,
+            630,
+            440,
+            957
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 49,
+        "image": "spatial_relationship_pointing_image/49_original.jpg",
+        "video": "",
+        "question": "Identify the closer book in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/49_mask.jpg",
+        "bbox": [
+            509,
+            216,
+            624,
+            285
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 50,
+        "image": "spatial_relationship_pointing_image/50_original.jpg",
+        "video": "",
+        "question": "Identify the closer book.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/50_mask.jpg",
+        "bbox": [
+            509,
+            216,
+            624,
+            285
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 51,
+        "image": "spatial_relationship_pointing_image/51_original.jpg",
+        "video": "",
+        "question": "Identify the picture on the wall closest to the coffee machine.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/51_mask.jpg",
+        "bbox": [
+            469,
+            162,
+            565,
+            254
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 52,
+        "image": "spatial_relationship_pointing_image/52_original.jpg",
+        "video": "",
+        "question": "Identify the nearest table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/52_mask.jpg",
+        "bbox": [
+            162,
+            451,
+            596,
+            767
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 53,
+        "image": "spatial_relationship_pointing_image/53_original.jpg",
+        "video": "",
+        "question": "Identify the nearest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/53_mask.jpg",
+        "bbox": [
+            140,
+            496,
+            441,
+            767
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 54,
+        "image": "spatial_relationship_pointing_image/54_original.jpg",
+        "video": "",
+        "question": "Identify the most nearest glass window.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/54_mask.jpg",
+        "bbox": [
+            500,
+            73,
+            814,
+            477
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 55,
+        "image": "spatial_relationship_pointing_image/55_original.jpg",
+        "video": "",
+        "question": "Identify the nearest table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/55_mask.jpg",
+        "bbox": [
+            0,
+            680,
+            309,
+            767
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 56,
+        "image": "spatial_relationship_pointing_image/56_original.jpg",
+        "video": "",
+        "question": "Identify the bottle on the right.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/56_mask.jpg",
+        "bbox": [
+            484,
+            131,
+            834,
+            769
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 57,
+        "image": "spatial_relationship_pointing_image/57_original.jpg",
+        "video": "",
+        "question": "Identify the nearest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/57_mask.jpg",
+        "bbox": [
+            0,
+            381,
+            437,
+            611
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 58,
+        "image": "spatial_relationship_pointing_image/58_original.jpg",
+        "video": "",
+        "question": "Identify the nearest table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/58_mask.jpg",
+        "bbox": [
+            377,
+            312,
+            693,
+            395
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 59,
+        "image": "spatial_relationship_pointing_image/59_original.jpg",
+        "video": "",
+        "question": "Identify the nearest monitor.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/59_mask.jpg",
+        "bbox": [
+            531,
+            60,
+            591,
+            197
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 60,
+        "image": "spatial_relationship_pointing_image/60_original.jpg",
+        "video": "",
+        "question": "Identify the nearest bottle. ",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/60_mask.jpg",
+        "bbox": [
+            202,
+            134,
+            271,
+            270
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 61,
+        "image": "spatial_relationship_pointing_image/61_original.jpg",
+        "video": "",
+        "question": "Identify the right plastic boxes.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/61_mask.jpg",
+        "bbox": [
+            544,
+            470,
+            706,
+            732
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 62,
+        "image": "spatial_relationship_pointing_image/62_original.jpg",
+        "video": "",
+        "question": "Identify the empty space on the plate with pancakes on it.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/62_mask.jpg",
+        "bbox": [
+            0,
+            424,
+            596,
+            792
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 63,
+        "image": "spatial_relationship_pointing_image/63_original.jpg",
+        "video": "",
+        "question": "Identify the left dumbbell.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/63_mask.jpg",
+        "bbox": [
+            439,
+            245,
+            500,
+            392
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 64,
+        "image": "spatial_relationship_pointing_image/64_original.jpg",
+        "video": "",
+        "question": "Identify the tree behind the infant chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/64_mask.jpg",
+        "bbox": [
+            221,
+            0,
+            495,
+            158
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 65,
+        "image": "spatial_relationship_pointing_image/65_original.jpg",
+        "video": "",
+        "question": "Identify the plastic box beneath the straw.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/65_mask.jpg",
+        "bbox": [
+            285,
+            138,
+            400,
+            208
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 66,
+        "image": "spatial_relationship_pointing_image/66_original.jpg",
+        "video": "",
+        "question": "Identify the left fish.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/66_mask.jpg",
+        "bbox": [
+            146,
+            259,
+            721,
+            764
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 67,
+        "image": "spatial_relationship_pointing_image/67_original.jpg",
+        "video": "",
+        "question": "Identify the right telephone.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/67_mask.jpg",
+        "bbox": [
+            534,
+            192,
+            908,
+            499
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 68,
+        "image": "spatial_relationship_pointing_image/68_original.jpg",
+        "video": "",
+        "question": "Identify the Coca Cola bottle ahead of the glass wine cup.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/68_mask.jpg",
+        "bbox": [
+            416,
+            91,
+            603,
+            866
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 69,
+        "image": "spatial_relationship_pointing_image/69_original.jpg",
+        "video": "",
+        "question": "Identify the object beneath the mug.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/69_mask.jpg",
+        "bbox": [
+            105,
+            257,
+            863,
+            684
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 70,
+        "image": "spatial_relationship_pointing_image/70_original.jpg",
+        "video": "",
+        "question": "Identify the empty space beneath the mug.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/70_mask.jpg",
+        "bbox": [
+            211,
+            285,
+            879,
+            767
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 71,
+        "image": "spatial_relationship_pointing_image/71_original.jpg",
+        "video": "",
+        "question": "Identify the ball which is farther away.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/71_mask.jpg",
+        "bbox": [
+            474,
+            195,
+            502,
+            222
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 72,
+        "image": "spatial_relationship_pointing_image/72_original.jpg",
+        "video": "",
+        "question": "Identify the closer cup",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/72_mask.jpg",
+        "bbox": [
+            393,
+            2,
+            1014,
+            767
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 73,
+        "image": "spatial_relationship_pointing_image/73_original.jpg",
+        "video": "",
+        "question": "Identify the left sink.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/73_mask.jpg",
+        "bbox": [
+            476,
+            345,
+            630,
+            370
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 74,
+        "image": "spatial_relationship_pointing_image/74_original.jpg",
+        "video": "",
+        "question": "Identify the red bowl which is further away.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/74_mask.jpg",
+        "bbox": [
+            45,
+            101,
+            120,
+            171
+        ],
+        "category": "pointing"
+    },
+    {
+        "idx": 75,
+        "image": "spatial_relationship_pointing_image/75_original.jpg",
+        "video": "",
+        "question": "Locate the green fruit on the left in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/75_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 76,
+        "image": "spatial_relationship_pointing_image/76_original.jpg",
+        "video": "",
+        "question": "Locate the building on the right in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/76_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 77,
+        "image": "spatial_relationship_pointing_image/77_original.jpg",
+        "video": "",
+        "question": "Locate the socks on the left in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/77_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 78,
+        "image": "spatial_relationship_pointing_image/78_original.jpg",
+        "video": "",
+        "question": "Locate the closest glass tumbler on the right in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/78_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 79,
+        "image": "spatial_relationship_pointing_image/79_original.jpg",
+        "video": "",
+        "question": "Locate the brick wall on the left in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/79_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 80,
+        "image": "spatial_relationship_pointing_image/80_original.jpg",
+        "video": "",
+        "question": "Locate the plastic drawers on the top of the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/80_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 81,
+        "image": "spatial_relationship_pointing_image/81_original.jpg",
+        "video": "",
+        "question": "Locate the towels on the second level from bottom to top in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/81_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 82,
+        "image": "spatial_relationship_pointing_image/82_original.jpg",
+        "video": "",
+        "question": "Locate the bedside table on the right in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/82_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 83,
+        "image": "spatial_relationship_pointing_image/83_original.jpg",
+        "video": "",
+        "question": "Locate the white car on the rightmost in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/83_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 84,
+        "image": "spatial_relationship_pointing_image/84_original.jpg",
+        "video": "",
+        "question": "Locate the donuts on the right uppermost in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/84_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 85,
+        "image": "spatial_relationship_pointing_image/85_original.jpg",
+        "video": "",
+        "question": "Locate the green bottle on the leftmost in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/85_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 86,
+        "image": "spatial_relationship_pointing_image/86_original.jpg",
+        "video": "",
+        "question": "Identify the glass of wine behind the nearest dish?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/86_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 87,
+        "image": "spatial_relationship_pointing_image/87_original.jpg",
+        "video": "",
+        "question": "Identify the bottle of seasoning nearest to the further dish?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/87_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 88,
+        "image": "spatial_relationship_pointing_image/88_original.jpg",
+        "video": "",
+        "question": "Identify the object between the two seasoning bottle?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/88_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 89,
+        "image": "spatial_relationship_pointing_image/89_original.jpg",
+        "video": "",
+        "question": "Identify the nearest plate?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/89_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 90,
+        "image": "spatial_relationship_pointing_image/90_original.jpg",
+        "video": "",
+        "question": "Identify the object on the top of the washing machine?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/90_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 91,
+        "image": "spatial_relationship_pointing_image/91_original.jpg",
+        "video": "",
+        "question": "Identify the object beneath the basket?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/91_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 92,
+        "image": "spatial_relationship_pointing_image/92_original.jpg",
+        "video": "",
+        "question": "Identify the left Borax box?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/92_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 93,
+        "image": "spatial_relationship_pointing_image/93_original.jpg",
+        "video": "",
+        "question": "Identify the highest white towel.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/93_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 94,
+        "image": "spatial_relationship_pointing_image/94_original.jpg",
+        "video": "",
+        "question": "Identify the Barox box in the middle?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/94_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 95,
+        "image": "spatial_relationship_pointing_image/95_original.jpg",
+        "video": "",
+        "question": "What is the nearest vase?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/95_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 96,
+        "image": "spatial_relationship_pointing_image/96_original.jpg",
+        "video": "",
+        "question": "Identify the nearest table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/96_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 97,
+        "image": "spatial_relationship_pointing_image/97_original.jpg",
+        "video": "",
+        "question": "What is the object masked in 1006_1591_5f2675ea5a0b89ba_coffee_maker_original_coffee_maker_mask_000.png?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/97_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 98,
+        "image": "spatial_relationship_pointing_image/98_original.jpg",
+        "video": "",
+        "question": "What is the more distant plant?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/98_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 99,
+        "image": "spatial_relationship_pointing_image/99_original.jpg",
+        "video": "",
+        "question": "What is the cupboard above the white towel roll?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/99_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 100,
+        "image": "spatial_relationship_pointing_image/100_original.jpg",
+        "video": "",
+        "question": "What is the cupboard above the sink?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/100_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 101,
+        "image": "spatial_relationship_pointing_image/101_original.jpg",
+        "video": "",
+        "question": "What is the cupboard above the coffeemachine?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/101_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 102,
+        "image": "spatial_relationship_pointing_image/102_original.jpg",
+        "video": "",
+        "question": "What is the cupboard on the most right?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/102_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 103,
+        "image": "spatial_relationship_pointing_image/103_original.jpg",
+        "video": "",
+        "question": "What is the right cucumber sushi roll?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/103_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 104,
+        "image": "spatial_relationship_pointing_image/104_original.jpg",
+        "video": "",
+        "question": "What is the left cucumber sushi roll?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/104_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 105,
+        "image": "spatial_relationship_pointing_image/105_original.jpg",
+        "video": "",
+        "question": "What is the middle cucumber sushi roll?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/105_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 106,
+        "image": "spatial_relationship_pointing_image/106_original.jpg",
+        "video": "",
+        "question": "What is the nearest plate?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/106_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 107,
+        "image": "spatial_relationship_pointing_image/107_original.jpg",
+        "video": "",
+        "question": "What is the plate that is farther away?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/107_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 108,
+        "image": "spatial_relationship_pointing_image/108_original.jpg",
+        "video": "",
+        "question": "What is the nearest salmon sushi?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/108_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 109,
+        "image": "spatial_relationship_pointing_image/109_original.jpg",
+        "video": "",
+        "question": "What is the salmon sushi that is farther away",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/109_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 110,
+        "image": "spatial_relationship_pointing_image/110_original.jpg",
+        "video": "",
+        "question": "What is the silver utensil that is father away",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/110_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 111,
+        "image": "spatial_relationship_pointing_image/111_original.jpg",
+        "video": "",
+        "question": "What is the nearest plate",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/111_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 112,
+        "image": "spatial_relationship_pointing_image/112_original.jpg",
+        "video": "",
+        "question": "What is the object above the nearest plate",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/112_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 113,
+        "image": "spatial_relationship_pointing_image/113_original.jpg",
+        "video": "",
+        "question": "What is the plate that is farther away?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/113_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 114,
+        "image": "spatial_relationship_pointing_image/114_original.jpg",
+        "video": "",
+        "question": "What is the electronic device in the opposite of the table and the chair?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/114_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 115,
+        "image": "spatial_relationship_pointing_image/115_original.jpg",
+        "video": "",
+        "question": "What is the closet beneath the oven?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/115_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 116,
+        "image": "spatial_relationship_pointing_image/116_original.jpg",
+        "video": "",
+        "question": "What is the object ahead of the bed?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/116_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 117,
+        "image": "spatial_relationship_pointing_image/117_original.jpg",
+        "video": "",
+        "question": "What is right nightstand?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/117_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 118,
+        "image": "spatial_relationship_pointing_image/118_original.jpg",
+        "video": "",
+        "question": "What is the right pillow?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/118_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 119,
+        "image": "spatial_relationship_pointing_image/119_original.jpg",
+        "video": "",
+        "question": "What is the middle pillow?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/119_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 120,
+        "image": "spatial_relationship_pointing_image/120_original.jpg",
+        "video": "",
+        "question": "What is the left pillow?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/120_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 121,
+        "image": "spatial_relationship_pointing_image/121_original.jpg",
+        "video": "",
+        "question": "What is the left washing machine?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/121_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 122,
+        "image": "spatial_relationship_pointing_image/122_original.jpg",
+        "video": "",
+        "question": "What is the right washing machine?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/122_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 123,
+        "image": "spatial_relationship_pointing_image/123_original.jpg",
+        "video": "",
+        "question": "What is the drawer on the right of the right washing machine?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/123_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 124,
+        "image": "spatial_relationship_pointing_image/124_original.jpg",
+        "video": "",
+        "question": "What is the drawer on the left of the clothes?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/124_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 125,
+        "image": "spatial_relationship_pointing_image/125_original.jpg",
+        "video": "",
+        "question": "What is the nearest building on the right row?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/125_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 126,
+        "image": "spatial_relationship_pointing_image/126_original.jpg",
+        "video": "",
+        "question": "What is the second nearest building on the right row?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/126_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 127,
+        "image": "spatial_relationship_pointing_image/127_original.jpg",
+        "video": "",
+        "question": "What is the left row of buildings?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/127_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 128,
+        "image": "spatial_relationship_pointing_image/128_original.jpg",
+        "video": "",
+        "question": "What is the two farther buildings on the right row?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/128_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 129,
+        "image": "spatial_relationship_pointing_image/129_original.jpg",
+        "video": "",
+        "question": "What is the object on the top of the washingmachine",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/129_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 130,
+        "image": "spatial_relationship_pointing_image/130_original.jpg",
+        "video": "",
+        "question": "What is the washingmachine beneath the blue object?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/130_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 131,
+        "image": "spatial_relationship_pointing_image/131_original.jpg",
+        "video": "",
+        "question": "What is the right magazine beneath the table?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/131_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 132,
+        "image": "spatial_relationship_pointing_image/132_original.jpg",
+        "video": "",
+        "question": "What is the middle magazine beneath the table?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/132_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 133,
+        "image": "spatial_relationship_pointing_image/133_original.jpg",
+        "video": "",
+        "question": "What is the left magazine beneath the table?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/133_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 134,
+        "image": "spatial_relationship_pointing_image/134_original.jpg",
+        "video": "",
+        "question": "What is the neraest car on the most left row?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/134_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 135,
+        "image": "spatial_relationship_pointing_image/135_original.jpg",
+        "video": "",
+        "question": "What is the second farther car on the most right row?",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/135_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 136,
+        "image": "spatial_relationship_pointing_image/136_original.jpg",
+        "video": "",
+        "question": "Identify the nearest plate.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/136_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 137,
+        "image": "spatial_relationship_pointing_image/137_original.jpg",
+        "video": "",
+        "question": "Identify the magazine that is farther.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/137_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 138,
+        "image": "spatial_relationship_pointing_image/138_original.jpg",
+        "video": "",
+        "question": "Identify the closest white condiment container.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/138_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 139,
+        "image": "spatial_relationship_pointing_image/139_original.jpg",
+        "video": "",
+        "question": "Identify the nearest black pillow.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/139_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 140,
+        "image": "spatial_relationship_pointing_image/140_original.jpg",
+        "video": "",
+        "question": "Identify the item beneath the bag.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/140_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 141,
+        "image": "spatial_relationship_pointing_image/141_original.jpg",
+        "video": "",
+        "question": "Identify the nearest paper toilet roll.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/141_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 142,
+        "image": "spatial_relationship_pointing_image/142_original.jpg",
+        "video": "",
+        "question": "Identify the furthest plant.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/142_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 143,
+        "image": "spatial_relationship_pointing_image/143_original.jpg",
+        "video": "",
+        "question": "Identify the nearest cup.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/143_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 144,
+        "image": "spatial_relationship_pointing_image/144_original.jpg",
+        "video": "",
+        "question": "Identify the nearest condiment shaker.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/144_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 145,
+        "image": "spatial_relationship_pointing_image/145_original.jpg",
+        "video": "",
+        "question": "Identify the closest donut.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/145_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 146,
+        "image": "spatial_relationship_pointing_image/146_original.jpg",
+        "video": "",
+        "question": "Identify the closest milkshake.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/146_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 147,
+        "image": "spatial_relationship_pointing_image/147_original.jpg",
+        "video": "",
+        "question": "Identify the nearest washingmachine.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/147_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 148,
+        "image": "spatial_relationship_pointing_image/148_original.jpg",
+        "video": "",
+        "question": "Identify the closest food item.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/148_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 149,
+        "image": "spatial_relationship_pointing_image/149_original.jpg",
+        "video": "",
+        "question": "Identify the nearest item.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/149_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 150,
+        "image": "spatial_relationship_pointing_image/150_original.jpg",
+        "video": "",
+        "question": "Identify the closest plastic bottle.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/150_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 151,
+        "image": "spatial_relationship_pointing_image/151_original.jpg",
+        "video": "",
+        "question": "Identify the item above the plate.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/151_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 152,
+        "image": "spatial_relationship_pointing_image/152_original.jpg",
+        "video": "",
+        "question": "Identify the furthest balloon.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/152_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 153,
+        "image": "spatial_relationship_pointing_image/153_original.jpg",
+        "video": "",
+        "question": "Identify the closest slice of bread.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/153_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 154,
+        "image": "spatial_relationship_pointing_image/154_original.jpg",
+        "video": "",
+        "question": "Identify the item in front of the white cup.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/154_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 155,
+        "image": "spatial_relationship_pointing_image/155_original.jpg",
+        "video": "",
+        "question": "Identify the item in front of the box.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/155_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 156,
+        "image": "spatial_relationship_pointing_image/156_original.jpg",
+        "video": "",
+        "question": "Identify the nearest bowl.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/156_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 157,
+        "image": "spatial_relationship_pointing_image/157_original.jpg",
+        "video": "",
+        "question": "Identify the nearest car.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/157_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 158,
+        "image": "spatial_relationship_pointing_image/158_original.jpg",
+        "video": "",
+        "question": "Identify the nearest car.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/158_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 159,
+        "image": "spatial_relationship_pointing_image/159_original.jpg",
+        "video": "",
+        "question": "Identify the nearest pillow.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/159_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 160,
+        "image": "spatial_relationship_pointing_image/160_original.jpg",
+        "video": "",
+        "question": "Identify the cup of beer closest to you.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/160_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 161,
+        "image": "spatial_relationship_pointing_image/161_original.jpg",
+        "video": "",
+        "question": "Identify the item behind the beer bottle.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/161_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 162,
+        "image": "spatial_relationship_pointing_image/162_original.jpg",
+        "video": "",
+        "question": "Identify the white item on top of the plate.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/162_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 163,
+        "image": "spatial_relationship_pointing_image/163_original.jpg",
+        "video": "",
+        "question": "Identify the nearest laptop to you.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/163_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 164,
+        "image": "spatial_relationship_pointing_image/164_original.jpg",
+        "video": "",
+        "question": "Identify the food right to the Mussels.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/164_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 165,
+        "image": "spatial_relationship_pointing_image/165_original.jpg",
+        "video": "",
+        "question": "Identify the left pepper.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/165_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 166,
+        "image": "spatial_relationship_pointing_image/166_original.jpg",
+        "video": "",
+        "question": "Identify the left sink.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/166_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 167,
+        "image": "spatial_relationship_pointing_image/167_original.jpg",
+        "video": "",
+        "question": "Identify the blender next to the toaster.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/167_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 168,
+        "image": "spatial_relationship_pointing_image/168_original.jpg",
+        "video": "",
+        "question": "Identify the most left beer bottle.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/168_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 169,
+        "image": "spatial_relationship_pointing_image/169_original.jpg",
+        "video": "",
+        "question": "Identify the tall potted plant that is farther away.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/169_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 170,
+        "image": "spatial_relationship_pointing_image/170_original.jpg",
+        "video": "",
+        "question": "Identify the middle beer tap.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/170_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 171,
+        "image": "spatial_relationship_pointing_image/171_original.jpg",
+        "video": "",
+        "question": "Identify the nearest plastic bottle.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/171_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 172,
+        "image": "spatial_relationship_pointing_image/172_original.jpg",
+        "video": "",
+        "question": "Identify the right bar stool.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/172_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 173,
+        "image": "spatial_relationship_pointing_image/173_original.jpg",
+        "video": "",
+        "question": "Identify the left cylinder container on the top layer of the refrigerator.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/173_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 174,
+        "image": "spatial_relationship_pointing_image/174_original.jpg",
+        "video": "",
+        "question": "Identify the closest shrimp.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/174_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 175,
+        "image": "spatial_relationship_pointing_image/175_original.jpg",
+        "video": "",
+        "question": "Identify the closest cucumber slice.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/175_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 176,
+        "image": "spatial_relationship_pointing_image/176_original.jpg",
+        "video": "",
+        "question": "Identify the last chair in the leftmost column of chairs.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/176_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 177,
+        "image": "spatial_relationship_pointing_image/177_original.jpg",
+        "video": "",
+        "question": "Identify the red chair near the closest table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/177_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 178,
+        "image": "spatial_relationship_pointing_image/178_original.jpg",
+        "video": "",
+        "question": "Identify the closest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/178_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 179,
+        "image": "spatial_relationship_pointing_image/179_original.jpg",
+        "video": "",
+        "question": "Identify the bottle in the back row on the left",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/179_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 180,
+        "image": "spatial_relationship_pointing_image/180_original.jpg",
+        "video": "",
+        "question": "Identify the closest table in the middle column.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/180_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 181,
+        "image": "spatial_relationship_pointing_image/181_original.jpg",
+        "video": "",
+        "question": "Identify the closest object on the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/181_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 182,
+        "image": "spatial_relationship_pointing_image/182_original.jpg",
+        "video": "",
+        "question": "Identify the sofa closet to the lamp.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/182_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 183,
+        "image": "spatial_relationship_pointing_image/183_original.jpg",
+        "video": "",
+        "question": "Identify the front right beer bottle.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/183_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 184,
+        "image": "spatial_relationship_pointing_image/184_original.jpg",
+        "video": "",
+        "question": "Identify the front right object on the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/184_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 185,
+        "image": "spatial_relationship_pointing_image/185_original.jpg",
+        "video": "",
+        "question": "Identify the car directly in front of the tent.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/185_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 186,
+        "image": "spatial_relationship_pointing_image/186_original.jpg",
+        "video": "",
+        "question": "Identify the container in the front right of the plastic cup. ",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/186_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 187,
+        "image": "spatial_relationship_pointing_image/187_original.jpg",
+        "video": "",
+        "question": "Identify the car in front of the tree.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/187_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 188,
+        "image": "spatial_relationship_pointing_image/188_original.jpg",
+        "video": "",
+        "question": "Identify the closest cup on the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/188_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 189,
+        "image": "spatial_relationship_pointing_image/189_original.jpg",
+        "video": "",
+        "question": "Identify the closest object on the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/189_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 190,
+        "image": "spatial_relationship_pointing_image/190_original.jpg",
+        "video": "",
+        "question": "Identify the object in front of the yellow box.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/190_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 191,
+        "image": "spatial_relationship_pointing_image/191_original.jpg",
+        "video": "",
+        "question": "Identify the monitor which is closer than white keyboard.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/191_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 192,
+        "image": "spatial_relationship_pointing_image/192_original.jpg",
+        "video": "",
+        "question": "Identify the closest car in the parking lot.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/192_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 193,
+        "image": "spatial_relationship_pointing_image/193_original.jpg",
+        "video": "",
+        "question": "Identify the item on top of the plate.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/193_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 194,
+        "image": "spatial_relationship_pointing_image/194_original.jpg",
+        "video": "",
+        "question": "Identify the item supporting the cup.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/194_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 195,
+        "image": "spatial_relationship_pointing_image/195_original.jpg",
+        "video": "",
+        "question": "Identify the closet container in the image.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/195_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 196,
+        "image": "spatial_relationship_pointing_image/196_original.jpg",
+        "video": "",
+        "question": "Identify the object supporting the cup.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/196_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 197,
+        "image": "spatial_relationship_pointing_image/197_original.jpg",
+        "video": "",
+        "question": "Identify the container which is closer.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/197_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 198,
+        "image": "spatial_relationship_pointing_image/198_original.jpg",
+        "video": "",
+        "question": "Identify the object on top of the plate.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/198_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 199,
+        "image": "spatial_relationship_pointing_image/199_original.jpg",
+        "video": "",
+        "question": "Identify the object behind the white golf ball.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/199_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 200,
+        "image": "spatial_relationship_pointing_image/200_original.jpg",
+        "video": "",
+        "question": "Identify the stack of cup that is neither too close nor too far.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/200_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 201,
+        "image": "spatial_relationship_pointing_image/201_original.jpg",
+        "video": "",
+        "question": "Identify the furthest stack of the cup.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/201_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 202,
+        "image": "spatial_relationship_pointing_image/202_original.jpg",
+        "video": "",
+        "question": "Identify the monitor that is farther to you.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/202_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 203,
+        "image": "spatial_relationship_pointing_image/203_original.jpg",
+        "video": "",
+        "question": "Identify the closest sofa to you.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/203_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 204,
+        "image": "spatial_relationship_pointing_image/204_original.jpg",
+        "video": "",
+        "question": "Identify the farthest sofa to you.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/204_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 205,
+        "image": "spatial_relationship_pointing_image/205_original.jpg",
+        "video": "",
+        "question": "Identify the photo album on the far right of the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/205_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 206,
+        "image": "spatial_relationship_pointing_image/206_original.jpg",
+        "video": "",
+        "question": "Identify the farthest chair to you.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/206_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 207,
+        "image": "spatial_relationship_pointing_image/207_original.jpg",
+        "video": "",
+        "question": "Identify the second left photo album on the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/207_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 208,
+        "image": "spatial_relationship_pointing_image/208_original.jpg",
+        "video": "",
+        "question": "Identify the leftmost photo album on the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/208_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 209,
+        "image": "spatial_relationship_pointing_image/209_original.jpg",
+        "video": "",
+        "question": "Identify the nearest photo album on the table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/209_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 210,
+        "image": "spatial_relationship_pointing_image/210_original.jpg",
+        "video": "",
+        "question": "Identify the nearest sofa.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/210_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 211,
+        "image": "spatial_relationship_pointing_image/211_original.jpg",
+        "video": "",
+        "question": "Identify the most right side table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/211_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 212,
+        "image": "spatial_relationship_pointing_image/212_original.jpg",
+        "video": "",
+        "question": "Identify the right pillow on the sofa.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/212_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 213,
+        "image": "spatial_relationship_pointing_image/213_original.jpg",
+        "video": "",
+        "question": "Identify the most right pile of books on the middle table..",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/213_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 214,
+        "image": "spatial_relationship_pointing_image/214_original.jpg",
+        "video": "",
+        "question": "Identify the leftmost chair to you.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/214_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 215,
+        "image": "spatial_relationship_pointing_image/215_original.jpg",
+        "video": "",
+        "question": "Identify the central floor-to-ceiling window unit with horizontal blinds and transom windows above.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/215_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 216,
+        "image": "spatial_relationship_pointing_image/216_original.jpg",
+        "video": "",
+        "question": "Identify the nearest wardrobe.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/216_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 217,
+        "image": "spatial_relationship_pointing_image/217_original.jpg",
+        "video": "",
+        "question": "Identify the farthest closet.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/217_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 218,
+        "image": "spatial_relationship_pointing_image/218_original.jpg",
+        "video": "",
+        "question": "Identify the left chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/218_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 219,
+        "image": "spatial_relationship_pointing_image/219_original.jpg",
+        "video": "",
+        "question": "Identify the rightmost cabinet.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/219_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 220,
+        "image": "spatial_relationship_pointing_image/220_original.jpg",
+        "video": "",
+        "question": "Identify the nearest wall painting",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/220_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 221,
+        "image": "spatial_relationship_pointing_image/221_original.jpg",
+        "video": "",
+        "question": "Identify the topmost gray cushion.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/221_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 222,
+        "image": "spatial_relationship_pointing_image/222_original.jpg",
+        "video": "",
+        "question": "Identify the rightmost knitted blanket",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/222_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 223,
+        "image": "spatial_relationship_pointing_image/223_original.jpg",
+        "video": "",
+        "question": "Identify the leftmost chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/223_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 224,
+        "image": "spatial_relationship_pointing_image/224_original.jpg",
+        "video": "",
+        "question": "Identify the nearest sofa.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/224_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 225,
+        "image": "spatial_relationship_pointing_image/225_original.jpg",
+        "video": "",
+        "question": "Identify the farthest sofa.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/225_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 226,
+        "image": "spatial_relationship_pointing_image/226_original.jpg",
+        "video": "",
+        "question": "Identify the farthest black and white pillow.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/226_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 227,
+        "image": "spatial_relationship_pointing_image/227_original.jpg",
+        "video": "",
+        "question": "Identify the nearest bowl.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/227_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 228,
+        "image": "spatial_relationship_pointing_image/228_original.jpg",
+        "video": "",
+        "question": "Identify the farthest bowl.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/228_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 229,
+        "image": "spatial_relationship_pointing_image/229_original.jpg",
+        "video": "",
+        "question": "Identify the farther speaker.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/229_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 230,
+        "image": "spatial_relationship_pointing_image/230_original.jpg",
+        "video": "",
+        "question": "Identify the nearest speaker.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/230_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 231,
+        "image": "spatial_relationship_pointing_image/231_original.jpg",
+        "video": "",
+        "question": "Identify the front blanket.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/231_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 232,
+        "image": "spatial_relationship_pointing_image/232_original.jpg",
+        "video": "",
+        "question": "Identify the front wooden coffee table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/232_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 233,
+        "image": "spatial_relationship_pointing_image/233_original.jpg",
+        "video": "",
+        "question": "Identify the distant rug on the floor.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/233_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 234,
+        "image": "spatial_relationship_pointing_image/234_original.jpg",
+        "video": "",
+        "question": "Identify the nearest rug on the floor.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/234_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 235,
+        "image": "spatial_relationship_pointing_image/235_original.jpg",
+        "video": "",
+        "question": "Identify the nearest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/235_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 236,
+        "image": "spatial_relationship_pointing_image/236_original.jpg",
+        "video": "",
+        "question": "Identify the most recent picture on the wall.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/236_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 237,
+        "image": "spatial_relationship_pointing_image/237_original.jpg",
+        "video": "",
+        "question": "Identify the closest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/237_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 238,
+        "image": "spatial_relationship_pointing_image/238_original.jpg",
+        "video": "",
+        "question": "Identify the nearest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/238_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 239,
+        "image": "spatial_relationship_pointing_image/239_original.jpg",
+        "video": "",
+        "question": "Identify the right bedside table",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/239_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 240,
+        "image": "spatial_relationship_pointing_image/240_original.jpg",
+        "video": "",
+        "question": "Identify the most distant stool.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/240_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 241,
+        "image": "spatial_relationship_pointing_image/241_original.jpg",
+        "video": "",
+        "question": "Identify the blue blanket in the back. ",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/241_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 242,
+        "image": "spatial_relationship_pointing_image/242_original.jpg",
+        "video": "",
+        "question": "Identify the most nearest lamp.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/242_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 243,
+        "image": "spatial_relationship_pointing_image/243_original.jpg",
+        "video": "",
+        "question": "Identify the nearest wooden table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/243_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 244,
+        "image": "spatial_relationship_pointing_image/244_original.jpg",
+        "video": "",
+        "question": "Identify the furniture that is beneath the white dove.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/244_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 245,
+        "image": "spatial_relationship_pointing_image/245_original.jpg",
+        "video": "",
+        "question": "Identify the animal in front of the white table.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/245_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 246,
+        "image": "spatial_relationship_pointing_image/246_original.jpg",
+        "video": "",
+        "question": "Identify the grey sofa on the right.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/246_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 247,
+        "image": "spatial_relationship_pointing_image/247_original.jpg",
+        "video": "",
+        "question": "Identify the most recent window.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/247_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 248,
+        "image": "spatial_relationship_pointing_image/248_original.jpg",
+        "video": "",
+        "question": "Identify the left shelf.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/248_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 249,
+        "image": "spatial_relationship_pointing_image/249_original.jpg",
+        "video": "",
+        "question": "Identify the right shelf.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/249_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 250,
+        "image": "spatial_relationship_pointing_image/250_original.jpg",
+        "video": "",
+        "question": "Identify the red wall art in the behind.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/250_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 251,
+        "image": "spatial_relationship_pointing_image/251_original.jpg",
+        "video": "",
+        "question": "Identify the dish washine machine.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/251_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 252,
+        "image": "spatial_relationship_pointing_image/252_original.jpg",
+        "video": "",
+        "question": "Identify the kitchen cabinet right to the dish washing machine.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/252_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 253,
+        "image": "spatial_relationship_pointing_image/253_original.jpg",
+        "video": "",
+        "question": "Identify the nearest table surface.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/253_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 254,
+        "image": "spatial_relationship_pointing_image/254_original.jpg",
+        "video": "",
+        "question": "Identify the dish washing machine on the right.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/254_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 255,
+        "image": "spatial_relationship_pointing_image/255_original.jpg",
+        "video": "",
+        "question": "Identify the surface left to the stove.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/255_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 256,
+        "image": "spatial_relationship_pointing_image/256_original.jpg",
+        "video": "",
+        "question": "Identify the closest on top right of the faucet.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/256_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 257,
+        "image": "spatial_relationship_pointing_image/257_original.jpg",
+        "video": "",
+        "question": "Identify the bottom drawer.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/257_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 258,
+        "image": "spatial_relationship_pointing_image/258_original.jpg",
+        "video": "",
+        "question": "Identify the tall cabinet on the right.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/258_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 259,
+        "image": "spatial_relationship_pointing_image/259_original.jpg",
+        "video": "",
+        "question": "Identify the cabinet on top of the plug.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/259_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 260,
+        "image": "spatial_relationship_pointing_image/260_original.jpg",
+        "video": "",
+        "question": "Identify the nearest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/260_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 261,
+        "image": "spatial_relationship_pointing_image/261_original.jpg",
+        "video": "",
+        "question": "Identify the bowl on the lower shelf of the cabinet",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/261_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 262,
+        "image": "spatial_relationship_pointing_image/262_original.jpg",
+        "video": "",
+        "question": "Identify the closest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/262_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 263,
+        "image": "spatial_relationship_pointing_image/263_original.jpg",
+        "video": "",
+        "question": "Identify the window in the farther room.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/263_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 264,
+        "image": "spatial_relationship_pointing_image/264_original.jpg",
+        "video": "",
+        "question": "Identify the closest lamp.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/264_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 265,
+        "image": "spatial_relationship_pointing_image/265_original.jpg",
+        "video": "",
+        "question": "Identify the lamp which is farther to the chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/265_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 266,
+        "image": "spatial_relationship_pointing_image/266_original.jpg",
+        "video": "",
+        "question": "Identify the chair closest to the television.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/266_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 267,
+        "image": "spatial_relationship_pointing_image/267_original.jpg",
+        "video": "",
+        "question": "Identify the farthest chair.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/267_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 268,
+        "image": "spatial_relationship_pointing_image/268_original.jpg",
+        "video": "",
+        "question": "Identify the chair closest to the window.",
+        "options": "",
+        "gt": "",
+        "mask": "spatial_relationship_pointing_image/268_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 269,
+        "image": "spatial_relationship_pointing_image/269_original.jpg",
+        "video": "",
+        "question": "Identify the pot on the right side of the stove.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/269_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 270,
+        "image": "spatial_relationship_pointing_image/270_original.jpg",
+        "video": "",
+        "question": "Identify the white spoon on the left side of the tray.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/270_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 271,
+        "image": "spatial_relationship_pointing_image/271_original.jpg",
+        "video": "",
+        "question": "Identify the left picture among two big pictures on the wall.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/271_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 272,
+        "image": "spatial_relationship_pointing_image/272_original.jpg",
+        "video": "",
+        "question": "Identify the top blanket on the closest bed.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/272_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 273,
+        "image": "spatial_relationship_pointing_image/273_original.jpg",
+        "video": "",
+        "question": "Identify the ball in the middle.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/273_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 274,
+        "image": "spatial_relationship_pointing_image/274_original.jpg",
+        "video": "",
+        "question": "Identify the left glass table in the image.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/274_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 275,
+        "image": "spatial_relationship_pointing_image/275_original.jpg",
+        "video": "",
+        "question": "Identify the left light fixture in the picture.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/275_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 276,
+        "image": "spatial_relationship_pointing_image/276_original.jpg",
+        "video": "",
+        "question": "Identify the second closest name tag on the closest.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/276_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 277,
+        "image": "spatial_relationship_pointing_image/277_original.jpg",
+        "video": "",
+        "question": "Identify the keyboard behind the most recent laptop.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/277_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 278,
+        "image": "spatial_relationship_pointing_image/278_original.jpg",
+        "video": "",
+        "question": "Identify the wooden table nearest to the right plant.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/278_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 279,
+        "image": "spatial_relationship_pointing_image/279_original.jpg",
+        "video": "",
+        "question": "Identify the most closest wooden table.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/279_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 280,
+        "image": "spatial_relationship_pointing_image/280_original.jpg",
+        "video": "",
+        "question": "Identify the most closest cup of drink to the plate.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/280_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 281,
+        "image": "spatial_relationship_pointing_image/281_original.jpg",
+        "video": "",
+        "question": "Identify the left speaker on the table.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/281_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 282,
+        "image": "spatial_relationship_pointing_image/282_original.jpg",
+        "video": "",
+        "question": "Identify the speaker behind the left monitor.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/282_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 283,
+        "image": "spatial_relationship_pointing_image/283_original.jpg",
+        "video": "",
+        "question": "Identify the nearest glass of water.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/283_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 284,
+        "image": "spatial_relationship_pointing_image/284_original.jpg",
+        "video": "",
+        "question": "Identify the glass of water around the nearest napkin.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/284_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 285,
+        "image": "spatial_relationship_pointing_image/285_original.jpg",
+        "video": "",
+        "question": "Identify the right white chair.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/285_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 286,
+        "image": "spatial_relationship_pointing_image/286_original.jpg",
+        "video": "",
+        "question": "Identify the left plant in front of the sofa.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/286_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 287,
+        "image": "spatial_relationship_pointing_image/287_original.jpg",
+        "video": "",
+        "question": "Identify the lamp between the sofa.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/287_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 288,
+        "image": "spatial_relationship_pointing_image/288_original.jpg",
+        "video": "",
+        "question": "Identify the wine glass on the most right.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/288_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 289,
+        "image": "spatial_relationship_pointing_image/289_original.jpg",
+        "video": "",
+        "question": "Identify the most left cup.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/289_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 290,
+        "image": "spatial_relationship_pointing_image/290_original.jpg",
+        "video": "",
+        "question": "Identify the left pillow.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/290_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 291,
+        "image": "spatial_relationship_pointing_image/291_original.jpg",
+        "video": "",
+        "question": "Identify the top blanket on the closest bed.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/291_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 292,
+        "image": "spatial_relationship_pointing_image/292_original.jpg",
+        "video": "",
+        "question": "Identify the left computer tower.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/292_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 293,
+        "image": "spatial_relationship_pointing_image/293_original.jpg",
+        "video": "",
+        "question": "Identify the white pillow on the right of the bed.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/293_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 294,
+        "image": "spatial_relationship_pointing_image/294_original.jpg",
+        "video": "",
+        "question": "Identify the nearest chair.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/294_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 295,
+        "image": "spatial_relationship_pointing_image/295_original.jpg",
+        "video": "",
+        "question": "Identify the nearest table on the right column.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/295_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 296,
+        "image": "spatial_relationship_pointing_image/296_original.jpg",
+        "video": "",
+        "question": "Identify the last donut in the first column from the left.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/296_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 297,
+        "image": "spatial_relationship_pointing_image/297_original.jpg",
+        "video": "",
+        "question": "Identify the left pillow on the sofa.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/297_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 298,
+        "image": "spatial_relationship_pointing_image/298_original.jpg",
+        "video": "",
+        "question": "Identify the orange sofa in the middle.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/298_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 299,
+        "image": "spatial_relationship_pointing_image/299_original.jpg",
+        "video": "",
+        "question": "Identify the book shelf behind the right red chair.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/299_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 300,
+        "image": "spatial_relationship_pointing_image/300_original.jpg",
+        "video": "",
+        "question": "Identify the first table on the left column.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/300_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 301,
+        "image": "spatial_relationship_pointing_image/301_original.jpg",
+        "video": "",
+        "question": "Identify the second left bottle.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/301_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 302,
+        "image": "spatial_relationship_pointing_image/302_original.jpg",
+        "video": "",
+        "question": "Identify the farthest syrup pitcher.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/302_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 303,
+        "image": "spatial_relationship_pointing_image/303_original.jpg",
+        "video": "",
+        "question": "Identify the bottom washing machine.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/303_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 304,
+        "image": "spatial_relationship_pointing_image/304_original.jpg",
+        "video": "",
+        "question": "Identify the chair facing the wine glass.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/304_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    },
+    {
+        "idx": 305,
+        "image": "spatial_relationship_pointing_image/305_original.jpg",
+        "video": "",
+        "question": "Identify the nearest monitor.",
+        "gt": "",
+        "options": "",
+        "mask": "spatial_relationship_pointing_image/305_mask.jpg",
+        "bbox": "",
+        "category": "pointing"
+    }
+]
