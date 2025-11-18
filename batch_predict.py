@@ -60,7 +60,7 @@ class BatchPointingPredictor:
                 {
                     "role": "user",
                     "content": [
-                        {"type": "image"},
+                        {"type": "image", "url": image_path},
                         {"type": "text", "text": question},
                     ],
                 },
@@ -68,18 +68,7 @@ class BatchPointingPredictor:
         ]
 
         # Use processor with text and images separately
-        text = self.processor.apply_chat_template(
-            messages,
-            add_generation_prompt=True,
-            tokenize=False,
-        )
-
-        inputs = self.processor(
-            text=text,
-            images=[image],
-            return_tensors="pt",
-            padding=True,
-        ).to(self.model.device, dtype=torch.bfloat16)
+        inputs = processor.apply_chat_template(messages, padding=True, add_generation_prompt=True, tokenize=True, return_dict=True, return_tensors="pt").to(model.device, dtype=torch.bfloat16)
 
         with torch.no_grad():
             outputs = self.model.generate(**inputs, max_new_tokens=max_new_tokens)
