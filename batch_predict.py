@@ -1,6 +1,12 @@
 """
 Batch Prediction Script for InternVL3 Pointing Model
 Runs predictions for all images and all test questions
+  python batch_predict.py \
+      --model_path output/internvl3_pointing \
+      --questions test_questions.json \
+      --images_dir /home/yu/Downloads/finetune_data/LLaMA-Factory \
+      --output_dir batch_predictions
+
 """
 
 import os
