@@ -52,24 +52,29 @@ class PointingVisualizer:
 
         # Prepare the message
         messages = [
-            {
-                "role": "user",
-                "content": [
-                    {"type": "image"},
-                    {"type": "text", "text": question},
-                ],
-            },
+            [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image"},
+                        {"type": "text", "text": question},
+                    ],
+                },
+            ]
         ]
 
-        # Process input
-        inputs = self.processor.apply_chat_template(
-            [messages],
-            images=[image],
-            padding=True,
+        # Process input - separate text and images
+        text = self.processor.apply_chat_template(
+            messages,
             add_generation_prompt=True,
-            tokenize=True,
-            return_dict=True,
+            tokenize=False,
+        )
+
+        inputs = self.processor(
+            text=text,
+            images=[image],
             return_tensors="pt",
+            padding=True,
         ).to(self.model.device, dtype=torch.bfloat16)
 
         # Generate prediction
