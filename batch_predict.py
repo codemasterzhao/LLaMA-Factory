@@ -56,23 +56,29 @@ class BatchPointingPredictor:
         image = Image.open(image_path).convert('RGB')
 
         messages = [
-            {
-                "role": "user",
-                "content": [
-                    {"type": "image"},
-                    {"type": "text", "text": question},
-                ],
-            },
+            [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image"},
+                        {"type": "text", "text": question},
+                    ],
+                },
+            ]
         ]
 
-        inputs = self.processor.apply_chat_template(
-            [messages],
-            images=[image],
-            padding=True,
+        # Use processor with text and images separately
+        text = self.processor.apply_chat_template(
+            messages,
             add_generation_prompt=True,
-            tokenize=True,
-            return_dict=True,
+            tokenize=False,
+        )
+
+        inputs = self.processor(
+            text=text,
+            images=[image],
             return_tensors="pt",
+            padding=True,
         ).to(self.model.device, dtype=torch.bfloat16)
 
         with torch.no_grad():
