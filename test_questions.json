@@ -3,58 +3,6 @@
     "conversations": [
       {
         "from": "human",
-        "value": "<image>The question is: Identify the wooden plate.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
-      },
-      {
-        "from": "gpt",
-        "value": ""
-      }
-    ],
-    "object": "wooden plate"
-  },
-  {
-    "conversations": [
-      {
-        "from": "human",
-        "value": "<image>The question is: Identify the wooden cup.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
-      },
-      {
-        "from": "gpt",
-        "value": ""
-      }
-    ],
-    "object": "wooden cup"
-  },
-  {
-    "conversations": [
-      {
-        "from": "human",
-        "value": "<image>The question is: Identify the white and blue plate.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
-      },
-      {
-        "from": "gpt",
-        "value": ""
-      }
-    ],
-    "object": "white and blue plate"
-  },
-  {
-    "conversations": [
-      {
-        "from": "human",
-        "value": "<image>The question is: Identify the green cup.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
-      },
-      {
-        "from": "gpt",
-        "value": ""
-      }
-    ],
-    "object": "green cup"
-  },
-  {
-    "conversations": [
-      {
-        "from": "human",
         "value": "<image>The question is: Identify the small blue bottle.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
       },
       {
@@ -62,32 +10,33 @@
         "value": ""
       }
     ],
-    "object": "small blue bottle"
+    "object": "the small blue bottle"
   },
   {
     "conversations": [
       {
         "from": "human",
-        "value": "<image>The question is: Identify the off-white bottle.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+        "value": "<image>The question is: Identify the blue u shape.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
       },
       {
         "from": "gpt",
         "value": ""
       }
     ],
-    "object": "off-white bottle"
+    "object": "blue u shape"
   },
   {
     "conversations": [
       {
         "from": "human",
-        "value": "<image>The question is: Identify the pink vase.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
+        "value": "<image>The question is: Identify the green cup with handler.\nPlease directly output the pixel location of the target point.\nFormat your answer as (x, y), where:\n- x is the horizontal coordinate (left → right),\n- y is the vertical coordinate (top → bottom).\nBoth x and y must be normalized to the range [0, 1] as floating-point values, indicating the relative position of the point within the image."
       },
       {
         "from": "gpt",
         "value": ""
       }
     ],
-    "object": "pink vase"
-  }
+    "object": "green cup with handler"
+  },
+
 ]
